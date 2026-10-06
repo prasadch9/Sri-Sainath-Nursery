@@ -123,7 +123,7 @@ export default function HomePage() {
           <div className="hidden justify-center lg:flex">
             <div className="rounded-[2rem] border border-white/25 bg-white/10 p-4 shadow-2xl backdrop-blur-md">
               <Image
-                src="/images/logo.png"
+                src="/logo.png"
                 alt="Sri Sainath Nursery"
                 width={520}
                 height={352}

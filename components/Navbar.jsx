@@ -26,7 +26,7 @@ export default function Navbar() {
       <div className="container-wide flex min-h-20 items-center justify-between gap-4 px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex min-w-0 items-center" onClick={() => setOpen(false)}>
           <Image
-            src="/images/logo.png"
+            src="/logo.png"
             alt="Sri Sainath Nursery logo"
             width={145}
             height={98}
